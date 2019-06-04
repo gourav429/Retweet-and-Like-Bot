@@ -8,5 +8,5 @@ Steps to test this bot :-
 6.Enter your website or twitter account url  in the "Website URL" section
 7.Fill all rest "required" fields
 8.Copy and paste your "consumer API key", "consumer secret key", "access token" and "access token secret" to the variables intialized in 
-the file
+the file bot.py
 and you are ready to test this bot.
